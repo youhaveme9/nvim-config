@@ -1,5 +1,5 @@
 # nvim-config
-Personal neovim config 
+Personal vim config 
 
 
-Will add more
+## Will add more
